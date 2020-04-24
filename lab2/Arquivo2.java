@@ -10,8 +10,10 @@ public class Arquivo2 {
         Date date = new Date();
         //Imprime a data formatada
         System.out.println("Hoje é "+dateFormat.format(date));
-        int a = 50;
-        int b = 100;
+
+        int a = 500;
+        int b = 1000;
+
         System.out.println("a+b="+(a+b));
          
 
