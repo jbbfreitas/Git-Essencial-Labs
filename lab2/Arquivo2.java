@@ -13,9 +13,8 @@ public class Arquivo2 {
 
         int a = 500;
         int b = 1000;
-        int c = 1500;
-
-        System.out.println("a+b+c="+(a+b+c));
+     
+        System.out.println("a+b="+(a+b));
          
 
 
